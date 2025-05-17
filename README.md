@@ -6,3 +6,5 @@ El porgrama es muy sencillo de usar al iniciar te muestra las siguientes opcione
 4. Salir
    
  ![alt text](Captura.JPG)
+ 
+La numero 1 "Iniciar sesion con cuenta existente" te abrira una ventana en la cual te pedira tus dos datos escenciales _**numero de cuenta y pin**_ te dara 3 intentos para ingresar con la cuenta que quieres acceder si fallas en las licencias te sacara de la app.
